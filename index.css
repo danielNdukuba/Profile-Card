@@ -104,4 +104,11 @@ font-weight: 500;
     padding: 0 20px;
     border-right: 2px solid #e7e7e7;
 }
+.data i{
+    font-size: 18px;
+    margin-right: 6px;
+}
+.data:last-child{
+    border-right: none;
+}
 
