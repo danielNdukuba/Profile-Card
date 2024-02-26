@@ -23,6 +23,14 @@
     padding: 25px;
     box-shadow: 0 5px 10px rgba(0, 0, 0, 0.1);
 }
+.profile-card::before{
+    content: '';
+    height: 36%;
+    width: 100%;
+    border-radius:24px 24px 0 0;
+    background-color: #4070f40;
+    
+}
 .image{
     position: relative;
     height: 150px;
